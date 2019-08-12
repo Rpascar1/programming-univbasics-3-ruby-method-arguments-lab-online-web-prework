@@ -3,11 +3,11 @@ def introduction (name)
   end
 
 def introduction_with_language (name,language)
-  puts  puts "Hi, my name is #{name} and I am learning ro program in #{language}."
+  puts "Hi, my name is #{name} and I am learning ro program in #{language}."
 end
   
 def introduction_with_language_optional (name,language = "Ruby")
-  puts  puts "Hi, my name is #{name} and I am learning ro program in #{language}."
+  puts "Hi, my name is #{name} and I am learning ro program in #{language}."
 end
 
 
